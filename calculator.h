@@ -1,11 +1,2 @@
-#ifndef CALCULATOR_H
-#define CALCULATOR_H
+int Sub (double, double);
 
-class Calculator
-{
-	public:
-		int Add (double, double);
-		int Sub (double, double);
-};
-
-#endif//CALCULATOR_H
